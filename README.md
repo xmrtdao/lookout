@@ -1,6 +1,6 @@
 # Lookout
 
-[![CI](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/lookout/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/YOUR_USERNAME/lookout/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/xmrtdao/lookout/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/xmrtdao/lookout/actions)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7%2B-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=111827)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
@@ -101,7 +101,7 @@ Better Auth, PWA middleware, and the retained preview bridge.
 ### Install and run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lookout.git
+git clone https://github.com/xmrtdao/lookout.git
 cd lookout
 npm install
 npm run dev
